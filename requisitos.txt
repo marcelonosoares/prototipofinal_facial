@@ -1,0 +1,2 @@
+pip install opencv-python opencv-python-headless dlib face_recognition imutils numpy
+
